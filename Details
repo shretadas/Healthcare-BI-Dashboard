@@ -1,0 +1,32 @@
+Here are the extracted KPIs:
+
+Avg Patient Satisfaction Rate: 96.64%
+Avg Experience of Doctors: 11.74 years
+Avg Consultation Fee: 1195.29 PKR
+Avg Wait Time: 11.28 minutes
+Most Common Specialization: General Physician
+Next, I'll create pivot tables for analysis. ​​
+
+Here are the key insights from the pivot tables:
+
+Top Specializations by Satisfaction Rate (100% satisfaction):
+
+General Physician, Diabetologist
+Endourologist, Sexologist, Endourologist
+Rheumatologist, General Physician, Pain Specialist
+Highest Consultation Fees by Specialization:
+
+Nephrologist, Diabetologist: 10,000 PKR
+Dermatologist, Cosmetic Surgeon: 5,000 PKR
+Urologist, Sexologist, Endourologist: 4,000 PKR
+Most Experienced Specializations:
+
+Pulmonologist & General Physician: 45 years
+Gastroenterologist & Endocrinologist: 43 years
+General Physician: 42 years
+Cities with Highest Wait Time:
+
+Hangu: 35 mins
+Pattoki: 20 mins
+Taxila: 17.86 mins
+
